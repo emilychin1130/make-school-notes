@@ -100,7 +100,8 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.80881216192865557" green="0.77170099416019011" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="tintColor" red="0.0" green="0.017669041431240373" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Yrb-im-XB7" firstAttribute="top" secondItem="WDx-gJ-K8Q" secondAttribute="bottom" constant="8" symbolic="YES" id="7xp-VG-f2a"/>
                             <constraint firstItem="Yrb-im-XB7" firstAttribute="leading" secondItem="5rx-Ml-G3d" secondAttribute="leadingMargin" id="DR9-G9-29g"/>
@@ -155,5 +156,5 @@
     <inferredMetricsTieBreakers>
         <segue reference="skJ-Fl-hsN"/>
     </inferredMetricsTieBreakers>
-    <color key="tintColor" red="0.80000001190000003" green="1" blue="0.40000000600000002" alpha="1" colorSpace="calibratedRGB"/>
+    <color key="tintColor" red="0.0" green="0.017669041430000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
 </document>
